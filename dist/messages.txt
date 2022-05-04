@@ -1,0 +1,1765 @@
+______________________________
+AI x AIBB20
+______________________________
+AIBB20 x AI
+______________________________
+AI x AIBB20
+______________________________
+AIBB20 x AI
+______________________________
+AI x AIBB20
+______________________________
+AIBB20 x AI
+______________________________
+AI x BENJAMIN03
+______________________________
+BENJAMIN03 x AI
+______________________________
+AI x BENJAMIN03
+______________________________
+BENJAMIN03 x AI
+______________________________
+AI x BENJAMIN03
+______________________________
+BENJAMIN03 x AI
+______________________________
+AI x CRUSHER10
+______________________________
+CRUSHER10 x AI
+______________________________
+AI x CRUSHER10
+______________________________
+CRUSHER10 x AI
+______________________________
+AI x CRUSHER10
+______________________________
+CRUSHER10 x AI
+______________________________
+AI x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x AI
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+AI x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x AI
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+AI x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x AI
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+AI x FIVEROW08
+______________________________
+FIVEROW08 x AI
+______________________________
+AI x FIVEROW08
+______________________________
+FIVEROW08 x AI
+______________________________
+AI x FIVEROW08
+______________________________
+FIVEROW08 x AI
+______________________________
+AI x GAMMAKU.F
+______________________________
+GAMMAKU.F x AI
+GAMMAKU.F.zip: Timeout
+______________________________
+AI x GAMMAKU.F
+______________________________
+GAMMAKU.F x AI
+GAMMAKU.F.zip: Timeout
+______________________________
+AI x GAMMAKU.F
+______________________________
+GAMMAKU.F x AI
+GAMMAKU.F.zip: Timeout
+______________________________
+AI x IMRO15
+______________________________
+IMRO15 x AI
+______________________________
+AI x IMRO15
+______________________________
+IMRO15 x AI
+______________________________
+AI x IMRO15
+______________________________
+IMRO15 x AI
+______________________________
+AI x LIGHTBLUE
+______________________________
+LIGHTBLUE x AI
+______________________________
+AI x LIGHTBLUE
+______________________________
+LIGHTBLUE x AI
+______________________________
+AI x LIGHTBLUE
+______________________________
+LIGHTBLUE x AI
+______________________________
+AI x MUSHROOM11
+______________________________
+MUSHROOM11 x AI
+______________________________
+AI x MUSHROOM11
+______________________________
+MUSHROOM11 x AI
+______________________________
+AI x MUSHROOM11
+______________________________
+MUSHROOM11 x AI
+______________________________
+AI x PISQ04
+______________________________
+PISQ04 x AI
+______________________________
+AI x PISQ04
+______________________________
+PISQ04 x AI
+______________________________
+AI x PISQ04
+______________________________
+PISQ04 x AI
+______________________________
+AI x PUSKVOREC03
+______________________________
+PUSKVOREC03 x AI
+______________________________
+AI x PUSKVOREC03
+______________________________
+PUSKVOREC03 x AI
+______________________________
+AI x PUSKVOREC03
+______________________________
+PUSKVOREC03 x AI
+______________________________
+AI x STAHLFAUST16
+______________________________
+STAHLFAUST16 x AI
+______________________________
+AI x STAHLFAUST16
+______________________________
+STAHLFAUST16 x AI
+______________________________
+AI x STAHLFAUST16
+______________________________
+STAHLFAUST16 x AI
+______________________________
+AI x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x AI
+TIANSHU.zip: Timeout
+______________________________
+AI x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x AI
+TIANSHU.zip: Timeout
+______________________________
+AI x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x AI
+TIANSHU.zip: Timeout
+______________________________
+AI x VALKYRIE13
+______________________________
+VALKYRIE13 x AI
+______________________________
+AI x VALKYRIE13
+______________________________
+VALKYRIE13 x AI
+______________________________
+AI x VALKYRIE13
+______________________________
+VALKYRIE13 x AI
+______________________________
+AI x WHATATEAM
+______________________________
+WHATATEAM x AI
+______________________________
+AI x WHATATEAM
+______________________________
+WHATATEAM x AI
+______________________________
+AI x WHATATEAM
+______________________________
+WHATATEAM x AI
+______________________________
+AIBB20 x BENJAMIN03
+______________________________
+BENJAMIN03 x AIBB20
+______________________________
+AIBB20 x BENJAMIN03
+______________________________
+BENJAMIN03 x AIBB20
+______________________________
+AIBB20 x BENJAMIN03
+______________________________
+BENJAMIN03 x AIBB20
+______________________________
+AIBB20 x CRUSHER10
+______________________________
+CRUSHER10 x AIBB20
+______________________________
+AIBB20 x CRUSHER10
+______________________________
+CRUSHER10 x AIBB20
+______________________________
+AIBB20 x CRUSHER10
+______________________________
+CRUSHER10 x AIBB20
+______________________________
+AIBB20 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x AIBB20
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+AIBB20 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x AIBB20
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+AIBB20 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x AIBB20
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+AIBB20 x FIVEROW08
+______________________________
+FIVEROW08 x AIBB20
+______________________________
+AIBB20 x FIVEROW08
+______________________________
+FIVEROW08 x AIBB20
+______________________________
+AIBB20 x FIVEROW08
+______________________________
+FIVEROW08 x AIBB20
+______________________________
+AIBB20 x GAMMAKU.F
+______________________________
+GAMMAKU.F x AIBB20
+______________________________
+AIBB20 x GAMMAKU.F
+______________________________
+GAMMAKU.F x AIBB20
+______________________________
+AIBB20 x GAMMAKU.F
+______________________________
+GAMMAKU.F x AIBB20
+______________________________
+AIBB20 x IMRO15
+______________________________
+IMRO15 x AIBB20
+______________________________
+AIBB20 x IMRO15
+______________________________
+IMRO15 x AIBB20
+______________________________
+AIBB20 x IMRO15
+______________________________
+IMRO15 x AIBB20
+______________________________
+AIBB20 x LIGHTBLUE
+______________________________
+LIGHTBLUE x AIBB20
+______________________________
+AIBB20 x LIGHTBLUE
+______________________________
+LIGHTBLUE x AIBB20
+______________________________
+AIBB20 x LIGHTBLUE
+______________________________
+LIGHTBLUE x AIBB20
+______________________________
+AIBB20 x MUSHROOM11
+______________________________
+MUSHROOM11 x AIBB20
+______________________________
+AIBB20 x MUSHROOM11
+______________________________
+MUSHROOM11 x AIBB20
+______________________________
+AIBB20 x MUSHROOM11
+______________________________
+MUSHROOM11 x AIBB20
+______________________________
+AIBB20 x PISQ04
+______________________________
+PISQ04 x AIBB20
+______________________________
+AIBB20 x PISQ04
+______________________________
+PISQ04 x AIBB20
+______________________________
+AIBB20 x PISQ04
+______________________________
+PISQ04 x AIBB20
+______________________________
+AIBB20 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x AIBB20
+______________________________
+AIBB20 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x AIBB20
+______________________________
+AIBB20 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x AIBB20
+______________________________
+AIBB20 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x AIBB20
+______________________________
+AIBB20 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x AIBB20
+______________________________
+AIBB20 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x AIBB20
+______________________________
+AIBB20 x TIANSHU
+______________________________
+TIANSHU x AIBB20
+______________________________
+AIBB20 x TIANSHU
+______________________________
+TIANSHU x AIBB20
+______________________________
+AIBB20 x TIANSHU
+______________________________
+TIANSHU x AIBB20
+______________________________
+AIBB20 x VALKYRIE13
+______________________________
+VALKYRIE13 x AIBB20
+______________________________
+AIBB20 x VALKYRIE13
+______________________________
+VALKYRIE13 x AIBB20
+______________________________
+AIBB20 x VALKYRIE13
+______________________________
+VALKYRIE13 x AIBB20
+______________________________
+AIBB20 x WHATATEAM
+______________________________
+WHATATEAM x AIBB20
+______________________________
+AIBB20 x WHATATEAM
+______________________________
+WHATATEAM x AIBB20
+______________________________
+AIBB20 x WHATATEAM
+______________________________
+WHATATEAM x AIBB20
+______________________________
+BENJAMIN03 x CRUSHER10
+______________________________
+CRUSHER10 x BENJAMIN03
+______________________________
+BENJAMIN03 x CRUSHER10
+______________________________
+CRUSHER10 x BENJAMIN03
+______________________________
+BENJAMIN03 x CRUSHER10
+______________________________
+CRUSHER10 x BENJAMIN03
+______________________________
+BENJAMIN03 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x BENJAMIN03
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+BENJAMIN03 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x BENJAMIN03
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+BENJAMIN03 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x BENJAMIN03
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+BENJAMIN03 x FIVEROW08
+______________________________
+FIVEROW08 x BENJAMIN03
+______________________________
+BENJAMIN03 x FIVEROW08
+______________________________
+FIVEROW08 x BENJAMIN03
+______________________________
+BENJAMIN03 x FIVEROW08
+______________________________
+FIVEROW08 x BENJAMIN03
+______________________________
+BENJAMIN03 x GAMMAKU.F
+______________________________
+GAMMAKU.F x BENJAMIN03
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [14,20]
+______________________________
+BENJAMIN03 x GAMMAKU.F
+______________________________
+GAMMAKU.F x BENJAMIN03
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [14,20]
+______________________________
+BENJAMIN03 x GAMMAKU.F
+______________________________
+GAMMAKU.F x BENJAMIN03
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [14,20]
+______________________________
+BENJAMIN03 x IMRO15
+______________________________
+IMRO15 x BENJAMIN03
+______________________________
+BENJAMIN03 x IMRO15
+______________________________
+IMRO15 x BENJAMIN03
+______________________________
+BENJAMIN03 x IMRO15
+______________________________
+IMRO15 x BENJAMIN03
+______________________________
+BENJAMIN03 x LIGHTBLUE
+______________________________
+LIGHTBLUE x BENJAMIN03
+______________________________
+BENJAMIN03 x LIGHTBLUE
+______________________________
+LIGHTBLUE x BENJAMIN03
+______________________________
+BENJAMIN03 x LIGHTBLUE
+______________________________
+LIGHTBLUE x BENJAMIN03
+______________________________
+BENJAMIN03 x MUSHROOM11
+______________________________
+MUSHROOM11 x BENJAMIN03
+______________________________
+BENJAMIN03 x MUSHROOM11
+______________________________
+MUSHROOM11 x BENJAMIN03
+______________________________
+BENJAMIN03 x MUSHROOM11
+______________________________
+MUSHROOM11 x BENJAMIN03
+______________________________
+BENJAMIN03 x PISQ04
+______________________________
+PISQ04 x BENJAMIN03
+______________________________
+BENJAMIN03 x PISQ04
+______________________________
+PISQ04 x BENJAMIN03
+______________________________
+BENJAMIN03 x PISQ04
+______________________________
+PISQ04 x BENJAMIN03
+______________________________
+BENJAMIN03 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x BENJAMIN03
+______________________________
+BENJAMIN03 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x BENJAMIN03
+______________________________
+BENJAMIN03 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x BENJAMIN03
+______________________________
+BENJAMIN03 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x BENJAMIN03
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+BENJAMIN03 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x BENJAMIN03
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+BENJAMIN03 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x BENJAMIN03
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+BENJAMIN03 x TIANSHU
+______________________________
+TIANSHU x BENJAMIN03
+TIANSHU.zip: Timeout
+______________________________
+BENJAMIN03 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x BENJAMIN03
+______________________________
+BENJAMIN03 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x BENJAMIN03
+______________________________
+BENJAMIN03 x VALKYRIE13
+______________________________
+VALKYRIE13 x BENJAMIN03
+______________________________
+BENJAMIN03 x VALKYRIE13
+______________________________
+VALKYRIE13 x BENJAMIN03
+______________________________
+BENJAMIN03 x VALKYRIE13
+______________________________
+VALKYRIE13 x BENJAMIN03
+______________________________
+BENJAMIN03 x WHATATEAM
+______________________________
+WHATATEAM x BENJAMIN03
+______________________________
+BENJAMIN03 x WHATATEAM
+______________________________
+WHATATEAM x BENJAMIN03
+______________________________
+BENJAMIN03 x WHATATEAM
+______________________________
+WHATATEAM x BENJAMIN03
+______________________________
+CRUSHER10 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x CRUSHER10
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+CRUSHER10 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x CRUSHER10
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+CRUSHER10 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x CRUSHER10
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+CRUSHER10 x FIVEROW08
+______________________________
+FIVEROW08 x CRUSHER10
+______________________________
+CRUSHER10 x FIVEROW08
+______________________________
+FIVEROW08 x CRUSHER10
+______________________________
+CRUSHER10 x FIVEROW08
+______________________________
+FIVEROW08 x CRUSHER10
+______________________________
+CRUSHER10 x GAMMAKU.F
+______________________________
+GAMMAKU.F x CRUSHER10
+______________________________
+CRUSHER10 x GAMMAKU.F
+______________________________
+GAMMAKU.F x CRUSHER10
+______________________________
+CRUSHER10 x GAMMAKU.F
+______________________________
+GAMMAKU.F x CRUSHER10
+______________________________
+CRUSHER10 x IMRO15
+______________________________
+IMRO15 x CRUSHER10
+______________________________
+CRUSHER10 x IMRO15
+______________________________
+IMRO15 x CRUSHER10
+______________________________
+CRUSHER10 x IMRO15
+______________________________
+IMRO15 x CRUSHER10
+______________________________
+CRUSHER10 x LIGHTBLUE
+______________________________
+LIGHTBLUE x CRUSHER10
+______________________________
+CRUSHER10 x LIGHTBLUE
+______________________________
+LIGHTBLUE x CRUSHER10
+______________________________
+CRUSHER10 x LIGHTBLUE
+______________________________
+LIGHTBLUE x CRUSHER10
+______________________________
+CRUSHER10 x MUSHROOM11
+______________________________
+MUSHROOM11 x CRUSHER10
+______________________________
+CRUSHER10 x MUSHROOM11
+______________________________
+MUSHROOM11 x CRUSHER10
+______________________________
+CRUSHER10 x MUSHROOM11
+______________________________
+MUSHROOM11 x CRUSHER10
+______________________________
+CRUSHER10 x PISQ04
+______________________________
+PISQ04 x CRUSHER10
+______________________________
+CRUSHER10 x PISQ04
+______________________________
+PISQ04 x CRUSHER10
+______________________________
+CRUSHER10 x PISQ04
+______________________________
+PISQ04 x CRUSHER10
+______________________________
+CRUSHER10 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x CRUSHER10
+______________________________
+CRUSHER10 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x CRUSHER10
+______________________________
+CRUSHER10 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x CRUSHER10
+______________________________
+CRUSHER10 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x CRUSHER10
+______________________________
+CRUSHER10 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x CRUSHER10
+______________________________
+CRUSHER10 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x CRUSHER10
+______________________________
+CRUSHER10 x TIANSHU
+______________________________
+TIANSHU x CRUSHER10
+______________________________
+CRUSHER10 x TIANSHU
+______________________________
+TIANSHU x CRUSHER10
+TIANSHU.zip: Timeout
+______________________________
+CRUSHER10 x TIANSHU
+______________________________
+TIANSHU x CRUSHER10
+______________________________
+CRUSHER10 x VALKYRIE13
+______________________________
+VALKYRIE13 x CRUSHER10
+______________________________
+CRUSHER10 x VALKYRIE13
+______________________________
+VALKYRIE13 x CRUSHER10
+______________________________
+CRUSHER10 x VALKYRIE13
+______________________________
+VALKYRIE13 x CRUSHER10
+______________________________
+CRUSHER10 x WHATATEAM
+______________________________
+WHATATEAM x CRUSHER10
+______________________________
+CRUSHER10 x WHATATEAM
+______________________________
+WHATATEAM x CRUSHER10
+______________________________
+CRUSHER10 x WHATATEAM
+______________________________
+WHATATEAM x CRUSHER10
+______________________________
+FASTGOMOKU14 x FIVEROW08
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FIVEROW08 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x FIVEROW08
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FIVEROW08 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x FIVEROW08
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FIVEROW08 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x GAMMAKU.F
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [20,14]
+______________________________
+GAMMAKU.F x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x GAMMAKU.F
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+GAMMAKU.F x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x GAMMAKU.F
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+GAMMAKU.F x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x IMRO15
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+IMRO15 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x IMRO15
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+IMRO15 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x IMRO15
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+IMRO15 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x LIGHTBLUE
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+LIGHTBLUE x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x LIGHTBLUE
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+LIGHTBLUE x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x LIGHTBLUE
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+LIGHTBLUE x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x MUSHROOM11
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+MUSHROOM11 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x MUSHROOM11
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+MUSHROOM11 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x MUSHROOM11
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+MUSHROOM11 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x PISQ04
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+PISQ04 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x PISQ04
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+PISQ04 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x PISQ04
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+PISQ04 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x PUSKVOREC03
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+PUSKVOREC03 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x PUSKVOREC03
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+PUSKVOREC03 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x PUSKVOREC03
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+PUSKVOREC03 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x STAHLFAUST16
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+STAHLFAUST16 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+FASTGOMOKU14 x STAHLFAUST16
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+STAHLFAUST16 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x STAHLFAUST16
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+STAHLFAUST16 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x TIANSHU
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+TIANSHU.zip: Timeout
+______________________________
+FASTGOMOKU14 x TIANSHU
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+TIANSHU x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+TIANSHU.zip: Timeout
+______________________________
+FASTGOMOKU14 x TIANSHU
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+TIANSHU x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x VALKYRIE13
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+VALKYRIE13 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x VALKYRIE13
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+VALKYRIE13 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x VALKYRIE13
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+VALKYRIE13 x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x WHATATEAM
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+WHATATEAM x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x WHATATEAM
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+WHATATEAM x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FASTGOMOKU14 x WHATATEAM
+ 0) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 0) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 0) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+WHATATEAM x FASTGOMOKU14
+ 1) FASTGOMOKU14.zip: #201: ### Welcome to use the ax_Brain for Gomoku game! ###
+ 1) FASTGOMOKU14.zip: #202: For Command list Please type in "command"
+ 1) FASTGOMOKU14.zip: #203: For more information please visit: "http://gomocup.org/".
+______________________________
+FIVEROW08 x GAMMAKU.F
+______________________________
+GAMMAKU.F x FIVEROW08
+______________________________
+FIVEROW08 x GAMMAKU.F
+______________________________
+GAMMAKU.F x FIVEROW08
+______________________________
+FIVEROW08 x GAMMAKU.F
+______________________________
+GAMMAKU.F x FIVEROW08
+______________________________
+FIVEROW08 x IMRO15
+______________________________
+IMRO15 x FIVEROW08
+______________________________
+FIVEROW08 x IMRO15
+______________________________
+IMRO15 x FIVEROW08
+______________________________
+FIVEROW08 x IMRO15
+______________________________
+IMRO15 x FIVEROW08
+______________________________
+FIVEROW08 x LIGHTBLUE
+______________________________
+LIGHTBLUE x FIVEROW08
+______________________________
+FIVEROW08 x LIGHTBLUE
+______________________________
+LIGHTBLUE x FIVEROW08
+______________________________
+FIVEROW08 x LIGHTBLUE
+______________________________
+LIGHTBLUE x FIVEROW08
+______________________________
+FIVEROW08 x MUSHROOM11
+______________________________
+MUSHROOM11 x FIVEROW08
+______________________________
+FIVEROW08 x MUSHROOM11
+______________________________
+MUSHROOM11 x FIVEROW08
+______________________________
+FIVEROW08 x MUSHROOM11
+______________________________
+MUSHROOM11 x FIVEROW08
+______________________________
+FIVEROW08 x PISQ04
+______________________________
+PISQ04 x FIVEROW08
+______________________________
+FIVEROW08 x PISQ04
+______________________________
+PISQ04 x FIVEROW08
+______________________________
+FIVEROW08 x PISQ04
+______________________________
+PISQ04 x FIVEROW08
+______________________________
+FIVEROW08 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x FIVEROW08
+______________________________
+FIVEROW08 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x FIVEROW08
+______________________________
+FIVEROW08 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x FIVEROW08
+______________________________
+FIVEROW08 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x FIVEROW08
+______________________________
+FIVEROW08 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x FIVEROW08
+______________________________
+FIVEROW08 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x FIVEROW08
+______________________________
+FIVEROW08 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x FIVEROW08
+TIANSHU.zip: Timeout
+______________________________
+FIVEROW08 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x FIVEROW08
+TIANSHU.zip: Timeout
+______________________________
+FIVEROW08 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x FIVEROW08
+______________________________
+FIVEROW08 x VALKYRIE13
+______________________________
+VALKYRIE13 x FIVEROW08
+______________________________
+FIVEROW08 x VALKYRIE13
+______________________________
+VALKYRIE13 x FIVEROW08
+______________________________
+FIVEROW08 x VALKYRIE13
+______________________________
+VALKYRIE13 x FIVEROW08
+______________________________
+FIVEROW08 x WHATATEAM
+______________________________
+WHATATEAM x FIVEROW08
+______________________________
+FIVEROW08 x WHATATEAM
+______________________________
+WHATATEAM x FIVEROW08
+______________________________
+FIVEROW08 x WHATATEAM
+______________________________
+WHATATEAM x FIVEROW08
+______________________________
+GAMMAKU.F x IMRO15
+______________________________
+IMRO15 x GAMMAKU.F
+______________________________
+GAMMAKU.F x IMRO15
+______________________________
+IMRO15 x GAMMAKU.F
+______________________________
+GAMMAKU.F x IMRO15
+______________________________
+IMRO15 x GAMMAKU.F
+______________________________
+GAMMAKU.F x LIGHTBLUE
+______________________________
+LIGHTBLUE x GAMMAKU.F
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [5,20]
+______________________________
+GAMMAKU.F x LIGHTBLUE
+______________________________
+LIGHTBLUE x GAMMAKU.F
+______________________________
+GAMMAKU.F x LIGHTBLUE
+______________________________
+LIGHTBLUE x GAMMAKU.F
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [20,8]
+______________________________
+GAMMAKU.F x MUSHROOM11
+______________________________
+MUSHROOM11 x GAMMAKU.F
+______________________________
+GAMMAKU.F x MUSHROOM11
+______________________________
+MUSHROOM11 x GAMMAKU.F
+______________________________
+GAMMAKU.F x MUSHROOM11
+______________________________
+MUSHROOM11 x GAMMAKU.F
+______________________________
+GAMMAKU.F x PISQ04
+______________________________
+PISQ04 x GAMMAKU.F
+______________________________
+GAMMAKU.F x PISQ04
+______________________________
+PISQ04 x GAMMAKU.F
+GAMMAKU.F.zip has not returned coordinates x,y
+ERROR my move [7,20]
+______________________________
+GAMMAKU.F x PISQ04
+______________________________
+PISQ04 x GAMMAKU.F
+______________________________
+GAMMAKU.F x PUSKVOREC03
+______________________________
+PUSKVOREC03 x GAMMAKU.F
+______________________________
+GAMMAKU.F x PUSKVOREC03
+______________________________
+PUSKVOREC03 x GAMMAKU.F
+______________________________
+GAMMAKU.F x PUSKVOREC03
+______________________________
+PUSKVOREC03 x GAMMAKU.F
+______________________________
+GAMMAKU.F x STAHLFAUST16
+______________________________
+STAHLFAUST16 x GAMMAKU.F
+______________________________
+GAMMAKU.F x STAHLFAUST16
+______________________________
+STAHLFAUST16 x GAMMAKU.F
+______________________________
+GAMMAKU.F x STAHLFAUST16
+______________________________
+STAHLFAUST16 x GAMMAKU.F
+______________________________
+GAMMAKU.F x TIANSHU
+______________________________
+TIANSHU x GAMMAKU.F
+______________________________
+GAMMAKU.F x TIANSHU
+______________________________
+TIANSHU x GAMMAKU.F
+______________________________
+GAMMAKU.F x TIANSHU
+______________________________
+TIANSHU x GAMMAKU.F
+TIANSHU.zip: Timeout
+______________________________
+GAMMAKU.F x VALKYRIE13
+______________________________
+VALKYRIE13 x GAMMAKU.F
+______________________________
+GAMMAKU.F x VALKYRIE13
+______________________________
+VALKYRIE13 x GAMMAKU.F
+______________________________
+GAMMAKU.F x VALKYRIE13
+______________________________
+VALKYRIE13 x GAMMAKU.F
+______________________________
+GAMMAKU.F x WHATATEAM
+______________________________
+WHATATEAM x GAMMAKU.F
+______________________________
+GAMMAKU.F x WHATATEAM
+______________________________
+WHATATEAM x GAMMAKU.F
+______________________________
+GAMMAKU.F x WHATATEAM
+______________________________
+WHATATEAM x GAMMAKU.F
+______________________________
+IMRO15 x LIGHTBLUE
+______________________________
+LIGHTBLUE x IMRO15
+______________________________
+IMRO15 x LIGHTBLUE
+______________________________
+LIGHTBLUE x IMRO15
+______________________________
+IMRO15 x LIGHTBLUE
+______________________________
+LIGHTBLUE x IMRO15
+______________________________
+IMRO15 x MUSHROOM11
+______________________________
+MUSHROOM11 x IMRO15
+______________________________
+IMRO15 x MUSHROOM11
+______________________________
+MUSHROOM11 x IMRO15
+______________________________
+IMRO15 x MUSHROOM11
+______________________________
+MUSHROOM11 x IMRO15
+______________________________
+IMRO15 x PISQ04
+______________________________
+PISQ04 x IMRO15
+______________________________
+IMRO15 x PISQ04
+______________________________
+PISQ04 x IMRO15
+______________________________
+IMRO15 x PISQ04
+______________________________
+PISQ04 x IMRO15
+______________________________
+IMRO15 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x IMRO15
+______________________________
+IMRO15 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x IMRO15
+______________________________
+IMRO15 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x IMRO15
+______________________________
+IMRO15 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x IMRO15
+______________________________
+IMRO15 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x IMRO15
+______________________________
+IMRO15 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x IMRO15
+______________________________
+IMRO15 x TIANSHU
+______________________________
+TIANSHU x IMRO15
+TIANSHU.zip: Timeout
+______________________________
+IMRO15 x TIANSHU
+______________________________
+TIANSHU x IMRO15
+TIANSHU.zip: Timeout
+______________________________
+IMRO15 x TIANSHU
+______________________________
+TIANSHU x IMRO15
+TIANSHU.zip: Timeout
+______________________________
+IMRO15 x VALKYRIE13
+______________________________
+VALKYRIE13 x IMRO15
+______________________________
+IMRO15 x VALKYRIE13
+______________________________
+VALKYRIE13 x IMRO15
+______________________________
+IMRO15 x VALKYRIE13
+______________________________
+VALKYRIE13 x IMRO15
+______________________________
+IMRO15 x WHATATEAM
+______________________________
+WHATATEAM x IMRO15
+______________________________
+IMRO15 x WHATATEAM
+______________________________
+WHATATEAM x IMRO15
+______________________________
+IMRO15 x WHATATEAM
+______________________________
+WHATATEAM x IMRO15
+______________________________
+LIGHTBLUE x MUSHROOM11
+______________________________
+MUSHROOM11 x LIGHTBLUE
+______________________________
+LIGHTBLUE x MUSHROOM11
+______________________________
+MUSHROOM11 x LIGHTBLUE
+______________________________
+LIGHTBLUE x MUSHROOM11
+______________________________
+MUSHROOM11 x LIGHTBLUE
+______________________________
+LIGHTBLUE x PISQ04
+______________________________
+PISQ04 x LIGHTBLUE
+______________________________
+LIGHTBLUE x PISQ04
+______________________________
+PISQ04 x LIGHTBLUE
+______________________________
+LIGHTBLUE x PISQ04
+______________________________
+PISQ04 x LIGHTBLUE
+______________________________
+LIGHTBLUE x PUSKVOREC03
+______________________________
+PUSKVOREC03 x LIGHTBLUE
+______________________________
+LIGHTBLUE x PUSKVOREC03
+______________________________
+PUSKVOREC03 x LIGHTBLUE
+______________________________
+LIGHTBLUE x PUSKVOREC03
+______________________________
+PUSKVOREC03 x LIGHTBLUE
+______________________________
+LIGHTBLUE x STAHLFAUST16
+______________________________
+STAHLFAUST16 x LIGHTBLUE
+STAHLFAUST16.zip: Timeout
+______________________________
+LIGHTBLUE x STAHLFAUST16
+______________________________
+STAHLFAUST16 x LIGHTBLUE
+______________________________
+LIGHTBLUE x STAHLFAUST16
+______________________________
+STAHLFAUST16 x LIGHTBLUE
+STAHLFAUST16.zip: Timeout
+______________________________
+LIGHTBLUE x TIANSHU
+______________________________
+TIANSHU x LIGHTBLUE
+______________________________
+LIGHTBLUE x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x LIGHTBLUE
+______________________________
+LIGHTBLUE x TIANSHU
+______________________________
+TIANSHU x LIGHTBLUE
+______________________________
+LIGHTBLUE x VALKYRIE13
+______________________________
+VALKYRIE13 x LIGHTBLUE
+______________________________
+LIGHTBLUE x VALKYRIE13
+______________________________
+VALKYRIE13 x LIGHTBLUE
+______________________________
+LIGHTBLUE x VALKYRIE13
+______________________________
+VALKYRIE13 x LIGHTBLUE
+______________________________
+LIGHTBLUE x WHATATEAM
+______________________________
+WHATATEAM x LIGHTBLUE
+______________________________
+LIGHTBLUE x WHATATEAM
+______________________________
+WHATATEAM x LIGHTBLUE
+______________________________
+LIGHTBLUE x WHATATEAM
+______________________________
+WHATATEAM x LIGHTBLUE
+______________________________
+MUSHROOM11 x PISQ04
+______________________________
+PISQ04 x MUSHROOM11
+______________________________
+MUSHROOM11 x PISQ04
+______________________________
+PISQ04 x MUSHROOM11
+______________________________
+MUSHROOM11 x PISQ04
+______________________________
+PISQ04 x MUSHROOM11
+______________________________
+MUSHROOM11 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x MUSHROOM11
+______________________________
+MUSHROOM11 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x MUSHROOM11
+______________________________
+MUSHROOM11 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x MUSHROOM11
+______________________________
+MUSHROOM11 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x MUSHROOM11
+______________________________
+MUSHROOM11 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x MUSHROOM11
+______________________________
+MUSHROOM11 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x MUSHROOM11
+______________________________
+MUSHROOM11 x TIANSHU
+______________________________
+TIANSHU x MUSHROOM11
+______________________________
+MUSHROOM11 x TIANSHU
+______________________________
+TIANSHU x MUSHROOM11
+______________________________
+MUSHROOM11 x TIANSHU
+______________________________
+TIANSHU x MUSHROOM11
+______________________________
+MUSHROOM11 x VALKYRIE13
+______________________________
+VALKYRIE13 x MUSHROOM11
+______________________________
+MUSHROOM11 x VALKYRIE13
+______________________________
+VALKYRIE13 x MUSHROOM11
+______________________________
+MUSHROOM11 x VALKYRIE13
+______________________________
+VALKYRIE13 x MUSHROOM11
+______________________________
+MUSHROOM11 x WHATATEAM
+______________________________
+WHATATEAM x MUSHROOM11
+______________________________
+MUSHROOM11 x WHATATEAM
+______________________________
+WHATATEAM x MUSHROOM11
+______________________________
+MUSHROOM11 x WHATATEAM
+______________________________
+WHATATEAM x MUSHROOM11
+______________________________
+PISQ04 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x PISQ04
+______________________________
+PISQ04 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x PISQ04
+______________________________
+PISQ04 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x PISQ04
+______________________________
+PISQ04 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x PISQ04
+______________________________
+PISQ04 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x PISQ04
+______________________________
+PISQ04 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x PISQ04
+______________________________
+PISQ04 x TIANSHU
+______________________________
+TIANSHU x PISQ04
+______________________________
+PISQ04 x TIANSHU
+______________________________
+TIANSHU x PISQ04
+______________________________
+PISQ04 x TIANSHU
+______________________________
+TIANSHU x PISQ04
+______________________________
+PISQ04 x VALKYRIE13
+______________________________
+VALKYRIE13 x PISQ04
+______________________________
+PISQ04 x VALKYRIE13
+______________________________
+VALKYRIE13 x PISQ04
+______________________________
+PISQ04 x VALKYRIE13
+______________________________
+VALKYRIE13 x PISQ04
+______________________________
+PISQ04 x WHATATEAM
+______________________________
+WHATATEAM x PISQ04
+______________________________
+PISQ04 x WHATATEAM
+______________________________
+WHATATEAM x PISQ04
+______________________________
+PISQ04 x WHATATEAM
+______________________________
+WHATATEAM x PISQ04
+______________________________
+PUSKVOREC03 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x TIANSHU
+______________________________
+TIANSHU x PUSKVOREC03
+______________________________
+PUSKVOREC03 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x PUSKVOREC03
+______________________________
+PUSKVOREC03 x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+TIANSHU x PUSKVOREC03
+TIANSHU.zip: Timeout
+______________________________
+PUSKVOREC03 x VALKYRIE13
+______________________________
+VALKYRIE13 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x VALKYRIE13
+______________________________
+VALKYRIE13 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x VALKYRIE13
+______________________________
+VALKYRIE13 x PUSKVOREC03
+______________________________
+PUSKVOREC03 x WHATATEAM
+______________________________
+WHATATEAM x PUSKVOREC03
+______________________________
+PUSKVOREC03 x WHATATEAM
+______________________________
+WHATATEAM x PUSKVOREC03
+______________________________
+PUSKVOREC03 x WHATATEAM
+______________________________
+WHATATEAM x PUSKVOREC03
+______________________________
+STAHLFAUST16 x TIANSHU
+______________________________
+TIANSHU x STAHLFAUST16
+______________________________
+STAHLFAUST16 x TIANSHU
+______________________________
+TIANSHU x STAHLFAUST16
+______________________________
+STAHLFAUST16 x TIANSHU
+______________________________
+TIANSHU x STAHLFAUST16
+TIANSHU.zip: Timeout
+______________________________
+STAHLFAUST16 x VALKYRIE13
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+VALKYRIE13 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x VALKYRIE13
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+VALKYRIE13 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x VALKYRIE13
+STAHLFAUST16.zip has exited unexpectedly !
+______________________________
+VALKYRIE13 x STAHLFAUST16
+______________________________
+STAHLFAUST16 x WHATATEAM
+______________________________
+WHATATEAM x STAHLFAUST16
+______________________________
+STAHLFAUST16 x WHATATEAM
+______________________________
+WHATATEAM x STAHLFAUST16
+______________________________
+STAHLFAUST16 x WHATATEAM
+______________________________
+WHATATEAM x STAHLFAUST16
+______________________________
+TIANSHU x VALKYRIE13
+______________________________
+VALKYRIE13 x TIANSHU
+______________________________
+TIANSHU x VALKYRIE13
+______________________________
+VALKYRIE13 x TIANSHU
+______________________________
+TIANSHU x VALKYRIE13
+______________________________
+VALKYRIE13 x TIANSHU
+______________________________
+TIANSHU x WHATATEAM
+TIANSHU.zip: Timeout
+______________________________
+WHATATEAM x TIANSHU
+______________________________
+TIANSHU x WHATATEAM
+______________________________
+WHATATEAM x TIANSHU
+______________________________
+TIANSHU x WHATATEAM
+______________________________
+WHATATEAM x TIANSHU
+TIANSHU.zip: Timeout
+______________________________
+VALKYRIE13 x WHATATEAM
+______________________________
+WHATATEAM x VALKYRIE13
+______________________________
+VALKYRIE13 x WHATATEAM
+______________________________
+WHATATEAM x VALKYRIE13
+______________________________
+VALKYRIE13 x WHATATEAM
+______________________________
+WHATATEAM x VALKYRIE13

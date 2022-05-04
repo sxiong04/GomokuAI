@@ -1,0 +1,90 @@
+-------------------------------------
+5/3/2022  2:13 AM - 9:19 AM
+Time for turn: 15 s,   Time for match: 300 s
+Tolerance: 1 s,   Memory: 80 MB
+Openings: No
+Rule: five or more stones wins
+Opening CRC: 837bb15f
+Games played: 720
+-------------------------------------
+
+PUSKVOREC03
+wins: 73=41+29+3,   losses: 17=2+15
+time/turn: 257 ms (max: 3.0 s),  time/game: 3 s
+moves/game: 13,  CRC: e7c4429f,   memory: 7.95 MB
+
+VALKYRIE13
+wins: 66=37+26+3,   losses: 24=8+16
+time/turn: 245 ms (max: 1.1 s),  time/game: 4 s
+moves/game: 17,  CRC: af41c137,   memory: 4.70 MB
+
+IMRO15
+wins: 61=35+23+3,   losses: 29=10+19
+time/turn: 24 ms (max: 0.8 s),  time/game: 0 s
+moves/game: 22,  CRC: 8596a63f,   memory: 4.27 MB
+
+FIVEROW08
+wins: 60=32+23+5,   losses: 30=10+20
+time/turn: 151 ms (max: 7.1 s),  time/game: 2 s
+moves/game: 18,  CRC: e4047021,   memory: 4.59 MB
+
+BENJAMIN03
+wins: 56=26+21+9,   losses: 31=16+15
+time/turn: 73 ms (max: 0.5 s),  time/game: 3 s
+moves/game: 44,  CRC: e1f6170d,   memory: 6.45 MB
+
+TIANSHU
+wins: 54=28+26,   losses: 36=1+6+29
+time/turn: 1262 ms (max: 15.5 s),  time/game: 16 s
+moves/game: 13,  CRC: f0fd53b1,   memory: 9.23 MB
+
+FASTGOMOKU14
+wins: 53=22+26+5,   losses: 36=20+16
+time/turn: 22 ms (max: 0.6 s),  time/game: 0 s
+moves/game: 26,  CRC: 69eef98a,   memory: 5.90 MB
+
+STAHLFAUST16
+wins: 50=29+20+1,   losses: 40=7+24+9,  7 errors
+time/turn: 5402 ms (max: 15.0 s),  time/game: 108 s
+moves/game: 20,  CRC: c561eec4,   memory: 78.82 MB
+
+GAMMAKU.F
+wins: 48=26+21+1,   losses: 42=13+19+10,  7 errors
+time/turn: 2443 ms (max: 13.3 s),  time/game: 57 s
+moves/game: 23,  CRC: 100063ac,   memory: 8.08 MB
+
+AI
+wins: 47=24+14+9,   losses: 43=18+25
+time/turn: 2678 ms (max: 14.5 s),  time/game: 51 s
+moves/game: 19,  CRC: 17d3b6b4,   memory: 4.13 MB
+
+LIGHTBLUE
+wins: 41=22+14+5,   losses: 47=19+28
+time/turn: 21 ms (max: 0.8 s),  time/game: 0 s
+moves/game: 27,  CRC: a433c70f,   memory: 20.68 MB
+
+PISQ04
+wins: 40=24+15+1,   losses: 50=20+30
+time/turn: 67 ms (max: 0.5 s),  time/game: 1 s
+moves/game: 19,  CRC: 3296035b,   memory: 5.24 MB
+
+CRUSHER10
+wins: 32=17+14+1,   losses: 58=28+30
+time/turn: 66 ms (max: 1.3 s),  time/game: 1 s
+moves/game: 27,  CRC: 36753ded,   memory: 7.97 MB
+
+MUSHROOM11
+wins: 17=17+0,   losses: 73=28+45
+time/turn: 699 ms (max: 1.8 s),  time/game: 4 s
+moves/game: 7,  CRC: 254651a3,   memory: 52.69 MB
+
+AIBB20
+wins: 10=6+4,   losses: 80=39+41
+time/turn: 785 ms (max: 2.2 s),  time/game: 6 s
+moves/game: 8,  CRC: 66801c81,   memory: 4.63 MB
+
+WHATATEAM
+wins: 9=4+3+2,   losses: 81=40+41
+time/turn: 26 ms (max: 0.8 s),  time/game: 0 s
+moves/game: 14,  CRC: f9075f7b,   memory: 13.98 MB
+
